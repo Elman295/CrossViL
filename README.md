@@ -156,20 +156,6 @@ python train.py --dataset LEVIR-CD --epochs 100 --lr 0.0001 --dims 256 --num_blo
 python evaluate.py --dataset WHU-CD --checkpoint checkpoints/crossvil_best.pth
 ```
 
----
-
-## Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@inproceedings{ghazaei2026crossvil,
-  title     = {Remote Sensing Change Detection with Cross mLSTM},
-  author    = {Ghazaei, Elman and Aptoula, Erchan},
-  booktitle = {IEEE International Conference on Image Processing (ICIP)},
-  year      = {2026}
-}
-```
 
 ---
 
