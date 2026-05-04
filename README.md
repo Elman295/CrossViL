@@ -1,4 +1,4 @@
-# CrossViL: Remote Sensing Change Detection with Cross mLSTM
+# REMOTE SENSING CHANGE DETECTION WITH CROSS MLSTM
 
 <div align="center">
 
