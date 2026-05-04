@@ -20,7 +20,7 @@ Faculty of Engineering and Natural Sciences (VPALab), Sabanci University, Istanb
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/files/27362656/CrossViL1cropped_fixed.pdf" width="90%" alt="CrossViL Architecture"/>
+  <img src="https://github.com/user-attachments/assets/4a08ea7b-0fae-4cb0-bd5d-12a44991c8f8" width="90%" alt="CrossViL Architecture"/>
   <p><em>Overall framework of CrossViL. Left: Full pipeline. Middle: CrossViL block with Cross-mLSTM units. Right: Detailed Cross-mLSTM structure.</em></p>
 </div>
 
