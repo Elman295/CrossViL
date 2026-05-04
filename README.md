@@ -9,7 +9,7 @@
 
 Faculty of Engineering and Natural Sciences (VPALab), Sabanci University, Istanbul, Türkiye
 
-*Accepted at IEEE International Conference on Image Processing (ICIP) 2026*
+*Accepted at IEEE ICIP 2026*
 
 </div>
 
