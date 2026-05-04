@@ -3,7 +3,6 @@
 <div align="center">
 
 [![ICIP 2026](https://img.shields.io/badge/ICIP-2026-blue.svg)](https://2026.ieeeicip.org/)
-[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **[Elman Ghazaei](https://github.com/), [Erchan Aptoula](https://github.com/)**
@@ -18,8 +17,11 @@ Faculty of Engineering and Natural Sciences (VPALab), Sabanci University, Istanb
 
 ## Overview
 
+[CrossViL1cropped_fixed.pdf](https://github.com/user-attachments/files/27362656/CrossViL1cropped_fixed.pdf)
+
+
 <div align="center">
-  <img src="assets/architecture.png" width="90%" alt="CrossViL Architecture"/>
+  <img src="" width="90%" alt="CrossViL Architecture"/>
   <p><em>Overall framework of CrossViL. Left: Full pipeline. Middle: CrossViL block with Cross-mLSTM units. Right: Detailed Cross-mLSTM structure.</em></p>
 </div>
 
