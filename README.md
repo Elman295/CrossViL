@@ -5,7 +5,7 @@
 [![ICIP 2026](https://img.shields.io/badge/ICIP-2026-blue.svg)](https://2026.ieeeicip.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**[Elman Ghazaei](https://github.com/), [Erchan Aptoula](https://github.com/)**
+**[Elman Ghazaei](https://scholar.google.com/citations?user=R-ghC00AAAAJ&hl=en), [Erchan Aptoula](https://sites.google.com/view/erchan-aptoula/)**
 
 Faculty of Engineering and Natural Sciences (VPALab), Sabanci University, Istanbul, Türkiye
 
